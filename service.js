@@ -1,5 +1,6 @@
-const express = require('express')
+const express = require('express');
 const app = express();
+const connectString = '560289';
 
 app.get('/', (req, res) => {
   res.send('Hello World!')
