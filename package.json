@@ -1,0 +1,24 @@
+{
+  "name": "d-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "service.js",
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "syedwaheed9292@gmail.com"
+  },
+  "keywords": [
+    "d-app"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "mongoose": "^5.9.7",
+    "nodemon": "^2.0.3"
+  }
+}
